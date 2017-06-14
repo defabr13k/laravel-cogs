@@ -1,7 +1,7 @@
 Cogs for Laravel
 ================
 
-> **Cogs for Laravel** is a composer package that adds handy Artisan Console Commands for MySQL database administration.
+> **Cogs for Laravel** is a Composer package that adds handy Artisan Console Commands for MySQL database administration.
 
 > **WARNING**
 >
@@ -69,7 +69,7 @@ Prior to Laravel `5.5` you also need to add the following to `app/config/app.php
         Laravel\Tinker\TinkerServiceProvider::class,
         DeFabr13k\Cogs\CogsServiceProvider::class,
 
-≤
+…
 ```
 
 Author

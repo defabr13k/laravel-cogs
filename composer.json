@@ -1,7 +1,7 @@
 {
     "name": "defabr13k/laravel-cogs",
-    "description": "Cogs for Laravel is a composer package that adds handy Artisan Console Commands for MySQL database administration.",
-    "type": "laravel package",
+    "description": "Cogs for Laravel is a Composer package that adds handy Artisan Console Commands for MySQL database administration.",
+    "type": "laravel-5-package",
     "license": "MIT",
     "authors": [
         {
