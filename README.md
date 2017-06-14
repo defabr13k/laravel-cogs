@@ -53,7 +53,7 @@ $ composer require --dev defabr13k/laravel-cogs
 ### Install the latest development version
 
 ```
-$ composer require --dev defabr13k/laravel-cogs @dev
+$ composer require --dev defabr13k/laravel-cogs=@dev
 ```
 
 Prior to Laravel `5.5` you also need to add the following to `app/config/app.php`:
